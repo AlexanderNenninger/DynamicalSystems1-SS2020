@@ -75,7 +75,7 @@ pylint==2.3.1
 pyodbc==4.0.30
 pyOpenSSL==19.1.0
 pyparsing==2.4.2
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 pyrsistent==0.15.4
 PySocks==1.7.1
 pytesseract==0.3.0
